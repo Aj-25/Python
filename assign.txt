@@ -1,0 +1,8 @@
+s1
+roll 101
+name adi
+address indore
+s2
+roll 102
+name ajay
+address ujjain
